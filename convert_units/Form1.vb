@@ -71,7 +71,7 @@ Public Class Form1
             End If
             'You did not pass the first test, so you automatically come here and get an error message
         Else
-            MsgBox("Please only enter a valid number for your group.")
+            MsgBox("Please only enter a valid number for the unit.")
             lblResults.Text = ""
         End If
         'I left my old code below for my personal learning experience. I loved the analogy with good person, bad person! :) 
